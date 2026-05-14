@@ -1,4 +1,4 @@
-# Mentis — The API Mangement System
+# Metis — The API Mangement System
 
 Mentis is a production-grade internal API management platform designed to centralize authentication, traffic management, observability, and AI-assisted developer tooling for distributed backend services.
 
