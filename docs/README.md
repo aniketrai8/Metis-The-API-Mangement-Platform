@@ -1,12 +1,12 @@
 # Metis — The API Mangement System
 
-Mentis is a production-grade internal API management platform designed to centralize authentication, traffic management, observability, and AI-assisted developer tooling for distributed backend services.
+Metis is a production-grade internal API management platform designed to centralize authentication, traffic management, observability, and AI-assisted developer tooling for distributed backend services.
 
 The platform acts as a resilient gateway layer between clients and internal microservices, helping engineering teams improve security, system reliability, monitoring, and API maintainability.
 
 ---
 
-## Why Mentis?
+## Why Metis?
 
 As backend ecosystems grow, organizations often face recurring operational problems:
 
@@ -17,7 +17,7 @@ As backend ecosystems grow, organizations often face recurring operational probl
 - Outdated or incomplete API documentation
 - Fragmented monitoring across teams
 
-NexusGate aims to solve these issues through a centralized, production-oriented gateway architecture.
+Metis aims to solve these issues through a centralized, production-oriented gateway architecture.
 
 ---
 
