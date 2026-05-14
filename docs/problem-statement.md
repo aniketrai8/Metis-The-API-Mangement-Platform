@@ -11,7 +11,7 @@ Example scenarios:
 - Team C accidentally exposes privileged endpoints publicly
 
 ### Design Decision
-NexusGate centralizes authentication and authorization at the gateway layer.
+Metis centralizes authentication and authorization at the gateway layer.
 
 The gateway:
 - validates JWT tokens
@@ -43,7 +43,7 @@ Example failure chain:
 - system-wide outages occur
 
 ### Design Decision
-NexusGate implements distributed rate limiting using Redis-backed token bucket algorithms.
+Metis implements distributed rate limiting using Redis-backed token bucket algorithms.
 
 The gateway:
 - limits abusive traffic
@@ -78,7 +78,7 @@ This causes:
 - inconsistencies between implementation and documentation
 
 ### Design Decision
-Mentis introduces AI-assisted API documentation generation.
+Metis introduces AI-assisted API documentation generation.
 
 The platform:
 - captures real request/response samples
@@ -106,7 +106,7 @@ Teams struggle to identify:
 - abnormal error spikes
 
 ### Design Decision
-NexusGate provides centralized observability and metrics aggregation.
+Metis provides centralized observability and metrics aggregation.
 
 The platform tracks:
 - p95/p99 latency
