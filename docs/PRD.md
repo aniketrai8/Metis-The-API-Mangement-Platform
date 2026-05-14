@@ -1,9 +1,9 @@
-# Mendis - AI-Enhanced API Gateway & Developer Platform
+# Metis - AI-Enhanced API Gateway & Developer Platform
 
 ---
 
 ## Document Information
-- **Project Name:** Mentis
+- **Project Name:** Metis
 - **Timeline:** 8 Weeks (6 weeks development + 2 weeks integration & AI tuning)
 - **Technology Stack:** Java 17, Spring Boot 3.x, Spring Cloud Gateway (Reactive/WebFlux), Redis, PostgreSQL, Docker
 
@@ -12,7 +12,7 @@
 ## 1. Project Overview
 
 ### 1.1 Purpose
-NexusGate is a production-grade internal API Management Platform designed to centralize security, traffic control, and observability for microservices. It acts as a resilient "entry point" that protects internal services from surges while providing developers with AI-automated documentation and real-time system metrics.
+Metis is a production-grade internal API Management Platform designed to centralize security, traffic control, and observability for microservices. It acts as a resilient "entry point" that protects internal services from surges while providing developers with AI-automated documentation and real-time system metrics.
 
 ### 1.2 Problem Statement
 As internal service ecosystems grow, organizations face fragmented infrastructure:
@@ -22,7 +22,7 @@ As internal service ecosystems grow, organizations face fragmented infrastructur
 - **Monitoring Gaps:** No unified view of latency (p99) or throughput across different team services.
 
 ### 1.3 Solution
-NexusGate provides a high-performance **Reactive Gateway** that:
+Metis provides a high-performance **Reactive Gateway** that:
 - **Centralizes Auth:** Validates JWTs and API Keys at the edge.
 - **Ensures Resilience:** Implements Redis-backed distributed rate limiting.
 - **Automates Docs:** Uses AI to infer API schemas from live traffic samples.
