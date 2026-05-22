@@ -72,7 +72,7 @@ Metis aims to solve these issues through a centralized, production-oriented gate
 ```text
 Client Applications
         ↓
-    NexusGate
+      Metis
 (API Gateway Layer)
         ↓
  ┌───────────────┐
